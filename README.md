@@ -19,6 +19,14 @@ Executing program:
 click on application
 run application through emulator
 
+## VIDEO WALKTHROUGH
+
+Walkthrough of implemnted user stories:
+
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Gif created with [GIPHY capture]
+
 
 Help:
 App may crash when using, I was unable to figure out why
